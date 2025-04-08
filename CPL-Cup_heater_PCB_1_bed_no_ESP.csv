@@ -1,0 +1,18 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,217.5,-58.5,90.0,top
+C4,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,214.3625,-86.25,180.0,top
+D2,1N4148W,D_SOD-123,203.15,-52.0,0.0,top
+J5,TYPE-C16PIN,CONN16_C16PIN_SHN,214.1,-44.02765,180.0,top
+Q1,AO3400A,SOT-23,204.7,-59.5625,90.0,top
+R1,1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,216.0,-58.5,90.0,top
+R10,"4,7K",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,204.65,-62.75,0.0,top
+R13,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,183.25,-63.75,0.0,top
+R16,1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,213.0,-58.4875,-90.0,top
+R2,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,214.5,-58.5,90.0,top
+R3,24K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,209.75,-54.0,180.0,top
+R4,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,219.75,-110.55,0.0,top
+R5,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,219.75,-108.75,0.0,top
+R6,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,219.75,-107.0,0.0,top
+R7,470,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,207.0,-102.5,180.0,top
+R8,470,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,204.65,-64.25,180.0,top
+U1,CH224K,SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm,215.5,-53.0,180.0,top
